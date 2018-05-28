@@ -1,0 +1,104 @@
+mpd_music_dir = "/host/ubuntumeta/Music"  
+ mpd_connection_timeout = "5"  
+ mpd_crossfade_time = "5"  
+ playlist_disable_highlight_delay = "1"  
+ playlist_display_mode = "columns"  
+ browser_display_mode = "columns"  
+ incremental_seeking = "no"  
+ autocenter_mode = "yes"  
+ header_visibility = "yes"  
+ statusbar_visibility = "yes"  
+ fancy_scrolling = "yes"  
+ follow_now_playing_lyrics = "yes"  
+ display_screens_numbers_on_start = "yes"  
+ ignore_leading_the = "yes"  
+ lyrics_database = "1"  
+ song_columns_list_format = "(10)[red]{l} (30)[blue]{a} (30)[green]{b} (50)[magenta]{t}"  z
+ colors_enabled = "yes"  
+ main_window_color = "white"  
+ header_window_color = "cyan"  
+ volume_color = "red"  
+ progressbar_color = "cyan"  
+ statusbar_color = "white"  
+ color1 = "cz"  
+ color2 = "cyan"  
+ active_column_color = "red"  
+ active_window_border = "blue"  
+
+visualizer_fifo_path = "/tmp/mpd.fifo"
+visualizer_output_name = "my_fifo"
+visualizer_sync_interval = "30" 
+visualizer_in_stereo = "yes"
+#visualizer_type = "wave" (spectrum/wave)
+visualizer_type = "spectrum" (spectrum/wave)
+
+song_list_format = "{$5%a $1| $6}{%t} $1| $8%l $1| $8%b"
+  song_status_format = "$5%a $1| $6%b$1"
+  statusbar_color = "black"
+  visualizer_color = "blue"
+  main_window_highlight_color = "blue"
+  header_visibility = "no"
+  statusbar_visibility = "yes"
+  colors_enabled = "yes"
+  display_screens_numbers_on_start = "no"
+  now_playing_prefix = "❯❯ "
+  now_playing_suffix = ""
+  autocenter_mode = "yes"
+  centered_cursor = "yes"
+  progressbar_look = "── "
+## progressbar_look = "■◣ "
+ ## progressbar_elapsed_color = "black"  
+titles_visibility = "no"
+  mouse_support = "no"
+  discard_colors_if_item_is_selected = "yes"
+ execute_on_song_change = "exec /home/mobo/.scripts/bar2tempplain"
+
+
+##### song format #####
+##
+## for song format you can use:
+##
+## %l - length
+## %f - filename
+## %D - directory
+## %a - artist
+## %A - album artist
+## %t - title
+## %b - album
+## %y - year
+## %n - track number (01/12 -> 01)
+## %N - full track info (01/12 -> 01/12)
+## %g - genre
+## %c - composer
+## %p - performer
+## %d - disc
+## %C - comment
+## $R - begin right alignment
+##
+## you can also put them in { } and then it will be displayed
+## only if all requested values are available and/or define alternate
+## value with { }|{ } eg. {%a - %t}|{%f}
+##
+## Note: If you want to set limit on maximal length of a tag, just
+## put the appropriate number between % and character that defines
+## tag type, e.g. to make album take max. 20 terminal cells, use '%20b'.
+##
+## Note: Format that is similar to "%a - %t" (i.e. without any additional
+## braces) is equal to "{%a - %t}", so if one of the tags is missing,
+## you'll get nothing.
+##
+## text can also have different color than the main window has,
+## eg. if you want length to be green, write $3%l$9
+##
+## available values:
+##
+## - 0 - default window color (discards all other colors)
+## - 1 - black
+## - 2 - red
+## - 3 - green
+## - 4 - yellow
+## - 5 - blue
+## - 6 - magenta
+## - 7 - cyan
+## - 8 - white
+## - 9 - end of current color

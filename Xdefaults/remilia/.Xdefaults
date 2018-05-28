@@ -1,0 +1,52 @@
+Xft.autohint:    0
+Xft.lcdfilter:   lcddefault
+Xft.hinting:     1
+Xft.hintstyle:   hintfull
+Xft.antialias:   1
+Xft.rgba:        rgb
+Xft.dpi:         92
+ 
+URxvt.depth:     24
+URxvt*scrollBar: false
+URxvt.geometry:  80x19
+ 
+URxvt*font:     xft:Ubuntu Mono:size=13,        \
+                xft:IPAGothic
+ 
+Xcursor.theme:  Openzone White Slim
+URxvt.perl-ext-common:  default,matcher
+URxvt.url-launcher:     /usr/bin/firefox
+URxvt.matcher.button:   1
+URxvt.letterSpace: -1
+ 
+URxvt*background:       #0C1523
+URxvt*foreground:       #BEBEBE
+URxvt*cursorColor:      #BEBEBE
+URxvt.colorUL:          #4682B4
+ 
+!! colors dark/light
+ 
+!! black
+URxvt*color0:   #000000
+URxvt*color8:   #FFFFFF
+!! red
+URxvt*color1:   #C2465E
+URxvt*color9:   #DC6078
+!! green
+URxvt*color2:   #52804D
+URxvt*color10:  #72B36B
+!! yellow
+URxvt*color3:   #9E76C1
+URxvt*color11:  #AB92C1
+!! blue
+URxvt*color12:  #6B86BB
+URxvt*color4:   #A6ABD1
+!! magenta
+URxvt*color5:   #BD7998
+URxvt*color13:  #BD95A7
+!! cyan
+URxvt*color6:   #63A4D2
+URxvt*color14:  #84B3D1
+!! white
+URxvt*color7:   gray
+URxvt*color15:  gray

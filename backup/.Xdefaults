@@ -1,0 +1,51 @@
+URxvt.depth: 24
+
+URxvt.scrollBar: false
+
+URxvt.font:xft:vga
+URxvt.boldFont:xft:vga
+URxvt*termName: rxvt-unicode-256color
+
+URxvt.letterSpace:0
+URxvt*geometry:           80x25
+URxvt*internalBorder:     20
+
+*background: #000000
+*foreground: #FF952C
+*cursorColor: #FF952C
+
+
+!black
+*color0:  #FF952C
+*color8:  #FF952C
+
+!red
+*color1:  #FF952C
+*color9: #FF952C
+
+!green
+*color2:  #FF952C
+*color10: #FF952C
+
+!yellow
+*color3:  #FF952C
+*color11: #FF952C
+
+!blue
+*color4:  #FF952C
+*color12: #FF952C
+
+!magenta
+*color5:  #FF952C
+*color13: #FF952C
+
+!cyan
+*color6:  #FF952C
+*color14: #FF952C
+
+!white
+*color7:  #FF952C
+*color15: #FF952C
+ 
+
+

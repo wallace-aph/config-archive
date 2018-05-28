@@ -1,0 +1,16 @@
+URxvt.depth: 24
+URxvt.scrollBar: false
+URxvt.scrollstyle: plain
+URxvt.font: xft:Lucida Console:size=11
+
+URxvt*termName: rxvt-unicode-256color
+URxvt*geometry: 80x25
+URxvt*internalBorder:  5
+URxvt.letterSpace: -1
+*background: #000000
+*foreground: #AAAAAA
+
+!black
+*color0:  #626E77
+*color8:  #626E77
+

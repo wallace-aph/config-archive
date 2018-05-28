@@ -1,0 +1,48 @@
+URxvt.depth: 24
+URxvt.scrollBar: false
+URxvt.scrollstyle: plain
+# URxvt.font: xft:Ubuntu Mono:bold:pixelsize=14
+URxvt.boldFont: xft:uushi
+URxvt.font: xft:uushi
+
+URxvt*termName: rxvt-unicode-256color
+URxvt*geometry: 80x25
+URxvt*internalBorder:  6
+# URxvt.letterSpace: -1
+
+*background: #202020
+*foreground: #D2C4B3
+*cursorColor: #D2C4B3
+!black
+*color0:  #6C6C6C
+*color8:  #6C6C6C
+
+!red
+*color1:  #BA93B1
+*color9:  #BA93B1
+
+!green
+*color2:  #BA93B1
+*color10: #BA93B1
+
+!yellow
+*color3:  #BA93B1
+*color11: #BA93B1
+
+!blue
+*color4:  #BA93B1
+*color12: #BA93B1
+
+!magenta
+*color5:  #BA93B1
+*color13: #BA93B1
+
+!cyan
+*color6:  #BA93B1
+*color14: #BA93B1
+
+!white
+*color7:  #F4F4F2
+*color15: #F4F4F2
+
+

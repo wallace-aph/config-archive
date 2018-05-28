@@ -1,0 +1,21 @@
+URxvt.depth: 24
+URxvt.scrollBar: false
+URxvt.scrollstyle: plain
+URxvt.font: xft:Old English
+URxvt*termName: rxvt-unicode-256color
+URxvt*geometry: 80x25
+URxvt*internalBorder:  2
+URxvt.letterSpace: -1
+
+!URxvt.depth: 32
+!URxvt.background: rgba:3333/3334/3334/dddd
+
+*background: #6AF8FF
+*foreground: #FF5DE2
+*cursorColor: #F3F3F3
+
+ 
+
+
+
+

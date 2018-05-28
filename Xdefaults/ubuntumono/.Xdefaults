@@ -1,0 +1,34 @@
+URxvt.depth: 24
+URxvt.scrollBar: false
+URxvt.scrollstyle: plain
+URxvt.font: xft:Ubuntu Mono:bold:pixelsize=14
+# URxvt.boldFont: xft:berry
+# URxvt.font: xft:berry
+
+URxvt*termName: rxvt-unicode-256color
+URxvt*geometry: 80x25
+URxvt*internalBorder:  5
+URxvt.letterSpace: -1
+
+.background: #353C58
+.foreground: #F0F0F0
+
+.color0:    #262D3F
+.color8:     #6f7885
+.color1:    #FFC4B0
+.color9:      #F59363
+.color2:    #AFDACC
+.color10:    #AFDACC
+.color3:  #F9E0AB
+.color11: #F0D878
+.color4:     #DE846C
+.color12:     #D56E7C
+.color5:    #A1F9B1
+.color13:    #A1F9B1
+.color6:    #9DC2B9
+.color14:    #9DC2B9
+.color7:     #f0f0f0
+.color15:     #f0f0f0
+
+
+

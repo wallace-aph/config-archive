@@ -1,0 +1,40 @@
+!black
+urxvt*color0:     #393939
+urxvt*color8:     #AF875F
+
+URxvt*color1:           #98724C
+URxvt*color9:           #AF652F
+
+URxvt*color2:           #908F32
+URxvt*color10:          #C3C13D
+
+URxvt*color3:           #AA964C
+URxvt*color11:          #C8B55B
+
+URxvt*color4:           #7B854E
+URxvt*color12:          #70A16C
+
+URxvt*color5:           #6B5644
+URxvt*color13:          #98724C
+
+URxvt*color6:           #5C5142
+URxvt*color14:          #778725
+
+URxvt*color7:           #C8B55B
+URxvt*color15:          #E4DC8C
+
+
+
+
+URxvt*scrollBar: false
+URxvt*background: #2d2d2d
+URxvt*foreground: #ffffff
+URxvt*cursorUnderline: true
+URxvt*cursorColor: #969899
+URxvt*colorUL: #9695b5
+URxvt*internalBorder:7
+URxvt*font: xft:drift
+URxvt*boldFont: xft:drift
+URxvt*letterSpace:-1
+URxvt.depth: 32
+URxvt.background: rgba:2222/2222/2222/cccc

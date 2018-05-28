@@ -1,0 +1,49 @@
+URxvt.depth: 24
+URxvt.scrollBar: false
+URxvt.scrollstyle: plain
+URxvt*boldFont: xft:berry
+URxvt.font: xft:berry
+URxvt*termName: rxvt-unicode-256color
+URxvt*geometry: 80x25
+URxvt*internalBorder:  5
+URxvt.letterSpace: 0
+
+*background: #201F1D
+urxvt*foreground: #EDDEC9
+*cursorColor: #EDDEC9
+
+
+# Black
+*color0: #302C23
+*color8: #403A2E
+
+# Red
+*color1: #A73E28
+*color9: #85311E
+
+# Green
+*color2: #878438
+*color10: #62712C
+
+# Yellow
+*color3: #C4905E
+*color11: #C4A63B
+
+# Blue
+*color4: #3D444E
+*color12: #757A80
+
+# Magenta
+*color5: #533F48
+*color13: #835C6E
+
+# Cyan
+*color6: #9D534A
+*color14: #6A3D38
+
+# White
+*color7: #eddec9
+*color15: #fafafa
+ 
+
+

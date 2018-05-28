@@ -1,0 +1,39 @@
+URxvt.depth: 32
+URxvt.scrollBar: false
+URxvt.font: xft:Courier:bold
+URxvt.letterSpace:-2
+
+URxvt*geometry:           80x25
+URxvt*internalBorder:     4
+
+URxvt.background: rgba:0000/7777/9999/cccc
+*foreground: #ffffff
+*cursorColor: #EEEEEE
+
+
+!Black
+URxvt*color0:           #111111
+URxvt*color8:           #111111
+!Red
+URxvt*color1:           #D25252
+URxvt*color9:           #D25252
+!Green
+URxvt*color2:           #3AD900
+URxvt*color10:          #3AD900
+!Yellow
+URxvt*color3:           #FF9D00
+URxvt*color11:          #FF9D00
+!Blue
+URxvt*color4:           #0088FF
+URxvt*color12:          #0088FF
+!Magenta
+URxvt*color5:           #FF80E1
+URxvt*color13:          #FF80E1
+!Cyan
+URxvt*color6:           #9EFFFF
+URxvt*color14:          #9EFFFF
+!White
+URxvt*color7:           #D0D0D0
+URxvt*color15:          #D0D0D0
+
+

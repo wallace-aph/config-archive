@@ -1,0 +1,46 @@
+! white
+URxvt*color0 : #252626
+URxvt*color8  : #3d3e40
+
+! red
+URxvt*color1: #bf414c
+URxvt*color9: #ff7e73
+
+! green
+URxvt*color2 : #8bbf41
+URxvt*color10  : #c6fb8c
+
+! yellow/orange
+URxvt*color3: #bf8b41
+URxvt*color11: #ffd073
+
+! blue
+URxvt*color4: #408bbf
+URxvt*color12: #80b5ff
+
+! purple
+URxvt*color5: #bf608f
+URxvt*color13: #ff99bb
+
+! cyan
+URxvt*color6 : #41bfbf
+URxvt*color14  : #8cecff
+
+! black
+URxvt*color7  : #c8cacc
+URxvt*color15  : #eeeff2
+
+
+
+
+URxvt*scrollBar: false
+URxvt*background: #1a1717
+URxvt*foreground: #969899
+URxvt*cursorUnderline: true
+URxvt*cursorColor: #969899
+URxvt*colorUL: #9695b5
+URxvt*internalBorder:7
+URxvt*borderColor: #1a1717
+
+URxvt*font: xft:lemon:size=10
+URxvt*boldFont: xft:lemon:size=10

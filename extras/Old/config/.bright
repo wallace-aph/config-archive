@@ -1,0 +1,4 @@
+cd /host/ubuntumeta/config/bright
+cp config /home/mobo/.i3/
+cp .Xdefaults /home/mobo/
+feh --bg-fill /home/mobo/Pictures/Wallpaper/plant2.png

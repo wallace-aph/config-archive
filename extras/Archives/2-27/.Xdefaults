@@ -1,0 +1,58 @@
+URxvt.depth: 24
+# URxvt.background: #292C31
+URxvt.scrollBar: false
+URxvt.font: xft:lemon:size=8
+URxvt*boldFont: xft:lemon:size=8
+
+
+URxvt*termName: rxvt-unicode-256color
+URxvt*geometry:           80x25
+URxvt*internalBorder:     4
+
+*background:  #40404C
+*foreground:  #555555
+# OLD: 1A1A1A
+*cursorColor: #242424
+
+*background:  #322C33
+# *background:  #323232
+*foreground:  #BBBBBB
+# OLD: 1A1A1A
+*cursorColor: #BBBBBB
+
+urxvt.color0:       #333333
+urxvt.color8:       #333333
+urxvt.color1:       #8C3B42
+urxvt.color9:       #8D2E37
+urxvt.color5:       #5D5377
+urxvt.color13:      #7F6B9E
+# urxvt.color6:       #5B7D8D
+# urxvt.color14:     #71868D
+urxvt.color7:       #EEEEEE
+urxvt.color15:      #DFDFDF
+
+
+! red
+URxvt*color1: #da637e
+URxvt*color9: #f0a3a3
+
+! yellow/orange
+URxvt*color3: #ab93b9
+URxvt*color11: #cbb6d7
+
+
+
+! blue
+URxvt*color4: #8797B3
+URxvt*color12: #b9e0fc
+
+! green
+URxvt*color2 : #b1b792
+URxvt*color10  : #C7E6B8
+
+! cyan
+URxvt*color6 : #63918b
+URxvt*color14  : #92b5b0
+
+
+

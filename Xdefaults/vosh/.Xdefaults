@@ -1,0 +1,44 @@
+URxvt.depth: 24
+URxvt.scrollBar: false
+URxvt.scrollstyle: plain
+
+URxvt*font: xft:terminus:pixelsize=9
+URxvt*boldfont: xft:terminus:pixelsize=9
+
+URxvt*termName: rxvt-unicode-256color
+URxvt*geometry: 80x25
+URxvt*internalBorder: 5
+URxvt.letterSpace: 0
+
+!URxvt.depth: 32
+!URxvt.background: rgba:1111/1111/1111/0000
+
+
+! vosh scheme
+*background: #252627
+*foreground: #ededf7
+! Black (not tango) + DarkGrey
+*color0: #3F3B40
+*color8: #6B676B
+! DarkRed + Red
+*color1: #c64552
+*color9: #f17060
+! DarkGreen + Green
+*color2:     #2E8B57
+*color10:    #8ec553
+! DarkYellow + Yellow
+*color3: #de9e4e
+*color11: #f7b056
+! DarkBlue + Blue
+*color4: #479ebb
+*color12: #71dede
+! DarkMangenta + Mangenta
+*color5: #75314b
+*color13: #d66590
+!DarkCyan + Cyan (both not tango)
+*color6: #618485
+*color14: #7eb2b2
+! LightGrey + White
+*color7: #C3C3C3
+*color15: #C4C4C4
+

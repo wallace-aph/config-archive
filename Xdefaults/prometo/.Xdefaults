@@ -1,0 +1,52 @@
+URxvt.depth: 24
+
+URxvt.scrollBar: false
+URxvt.font:xft:Apercu Mono
+URxvt*boldFont:xft:Apercu Mono
+URxvt*termName: rxvt-unicode-256color
+
+URxvt.letterSpace:-2
+URxvt*geometry:           80x25
+URxvt*internalBorder:     20
+
+*background: #000000
+*foreground: #FFFFFF
+*cursorColor: #FFFFFF
+
+URxvt.background: #192224
+
+
+!black
+*color0:  #383838
+*color8:  #383838
+
+!red
+*color1:  #4F4F4F
+*color9:  #4F4F4F
+
+!green
+*color2:  #5E5E5E
+*color10: #5E5E5E
+
+!yellow
+*color3:  #707070
+*color11: #707070
+
+!blue
+*color4:  #8A8A8A
+*color12: #8A8A8A
+
+!magenta
+*color5:  #A1A1A1
+*color13: #A1A1A1
+
+!cyan
+*color6:  #CCCCCC
+*color14: #CCCCCC
+
+!white
+*color7:  #F0F0F0
+*color15: #F0F0F0
+ 
+
+

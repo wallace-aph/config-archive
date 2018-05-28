@@ -1,0 +1,35 @@
+URxvt.depth: 24
+URxvt.scrollBar: false
+URxvt.scrollstyle: plain
+URxvt.font: xft:uushi
+URxvt.boldFont: xft:uushi
+# URxvt.font: xft:berry
+
+URxvt*termName: rxvt-unicode-256color
+URxvt*geometry: 80x25
+URxvt*internalBorder:  5
+URxvt.letterSpace: 0
+urxvt.foreground: 	#707070
+urxvt.background: 	#ffffff
+urxvt.cursorColor:  #707070
+urxvt.color0:       #d3d3d3
+urxvt.color8:       #b3b3b3
+urxvt.color1:       #ff807a
+urxvt.color9:       #ff605a
+urxvt.color2:       #b4c158
+urxvt.color10:      #94c138
+urxvt.color3:       #f59335
+urxvt.color11:      #D9802B
+urxvt.color4:       #bbdbe2
+urxvt.color12:      #9bbbe2
+urxvt.color5:       #fec7cd
+urxvt.color13:      #d2a4b4
+urxvt.color6:       #95c1c0
+urxvt.color14:      #75A1A0
+urxvt.color7:       #707070
+urxvt.color15:      #909090
+ 
+
+
+
+

@@ -1,0 +1,4 @@
+cd /host/ubuntumeta/config/stgstv
+cp config /home/mobo/.i3/
+cp .Xdefaults /home/mobo/
+feh --bg-fill /home/mobo/Pictures/Wallpaper/stgstv3.png

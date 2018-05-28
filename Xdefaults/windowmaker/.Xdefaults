@@ -1,0 +1,34 @@
+URxvt.font:-misc-*-*-*-*-*-*-*-*-75-*-*-*-*
+
+!black
+*color0:  #858585
+*color8:  #858585
+
+!red
+*color1:  #333333
+*color9:  #333333
+
+!green
+*color2:  #D7D7D7
+*color10: #D7D7D7
+
+!yellow
+*color3:  #999999
+*color11: #999999
+
+!blue
+*color4:  #777777
+*color12: #777777
+
+!magenta
+*color5:  #555555
+*color13: #E5E5E5
+
+!cyan
+*color6:  #4d4d4d
+*color14: #4d4d4d
+
+!white
+*color7:  #aaaaaa
+*color15: #aaaaaa
+ 

@@ -1,0 +1,32 @@
+URxvt.depth: 24
+URxvt.scrollBar: false
+URxvt.font: xft:Ubuntu Mono:bold:size=12
+URxvt*termName: rxvt-unicode-256color
+
+URxvt.letterSpace:-1
+URxvt*geometry:           80x25
+URxvt*internalBorder:     4
+
+URxvt.depth: 32
+URxvt.background: rgba:0400/2000/2900/0000
+
+*background: #191919
+*foreground: #99999a
+*cursorColor: #99999a
+
+*color0:                        #353535
+*color8:                        #666666
+*color1:                        #AE4747
+*color9:                        #EE6363
+*color2:                        #556B2F
+*color10:                       #9ACD32
+*color3:                        #DAA520
+*color11:                       #FFC125
+*color12:                       #99b7c1
+*color4:                        #6F99B4
+*color5:                        #8B7B8B
+*color13:                       #CF9EBE
+*color6:                        #A7A15E
+*color14:                       #F0E68C
+*color7:                        #DDDDDD
+*color15:                       #FFFFFF
